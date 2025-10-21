@@ -1,0 +1,14 @@
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.exe
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.deps.json
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.runtimeconfig.json
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.dll
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.pdb
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.GeneratedMSBuildEditorConfig.editorconfig
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.AssemblyInfoInputs.cache
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.AssemblyInfo.cs
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.csproj.CoreCompileInputs.cache
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.dll
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\refint\CharacterSelect.dll
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.pdb
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.genruntimeconfig.cache
+E:\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\ref\CharacterSelect.dll
